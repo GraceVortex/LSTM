@@ -1,0 +1,15 @@
+# Ignore system files
+*.ini
+*.log
+AppData/
+Desktop/
+Documents/
+Downloads/
+NTUSER.DAT*
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
